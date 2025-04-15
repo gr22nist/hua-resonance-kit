@@ -1,0 +1,7 @@
+ # Default ignores
+node_modules/
+.DS_Store
+.env
+
+# Ignore backup folder
+backup/
