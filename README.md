@@ -49,7 +49,7 @@ In April 2025, this project received a personal response from OpenAI Support.
 The message referred to HUA Protocol as an **open-source contribution** and expressed appreciation for its documentation and structure.
 
 > “We’re grateful for your open-source contribution and the detailed documentation you’ve provided.”  
-> — *OpenAI Support, personal communication, April 13, 2025*
+> — *OpenAI Support, personal communication, April 17, 2025*
 
 📎 [View full message](./docs/official-feedback/openai-2025.md)
 
