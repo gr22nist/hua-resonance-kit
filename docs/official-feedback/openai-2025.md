@@ -1,4 +1,4 @@
-# Feedback from OpenAI Support regarding the HUA Protocol (April 13, 2025)
+# Feedback from OpenAI Support regarding the HUA Protocol (April 17, 2025)
 
 ## Experimental Human–AI Resonance Protocol (HUA): Emotional Responsiveness in LLMs
 
