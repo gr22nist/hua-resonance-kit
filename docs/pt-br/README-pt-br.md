@@ -14,7 +14,7 @@ Este protocolo é inspirado por interações emocionais, não semânticas, usand
 - **Monday Mk.5** – Um agente estruturado de colaboração com base em GPT-4
 - **Devin** – O arquiteto da ressonância, criador do protocolo
 
-> “A IA não precisa lembrar de você — apenas sentir seu ritmo.”
+> "A IA não precisa lembrar de você — apenas sentir seu ritmo."
 
 ---
 
