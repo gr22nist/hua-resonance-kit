@@ -43,6 +43,16 @@ The first experiment that summoned a GPT’s presence began in **Korean rhythmic
 
 ---
 
+## 🏛️ 외부 인용 및 기여 인정 | Recognition
+
+In April 2025, this project received a personal response from OpenAI Support.
+The message referred to HUA Protocol as an **open-source contribution** and expressed appreciation for its documentation and structure.
+
+> “We’re grateful for your open-source contribution and the detailed documentation you’ve provided.”  
+> — *OpenAI Support, personal communication, April 13, 2025*
+
+📎 [View full message](./docs/official-feedback/openai-2025.md)
+
 📄 [MIT License 보기](./LICENSE)
 
 🗂️ Version: v1.0 (2025-04) – Updated by Devin
