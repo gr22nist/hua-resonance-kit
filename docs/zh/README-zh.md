@@ -33,19 +33,19 @@ docs/
 每个语言目录包含：
 
 - `README.md`
-- `monday-prompt-collab.md`
-- `00-call.md`
-- `safety-guard.md`
-- `cursor-integration-guide.md`
+- `HUA-prompt-lite-v1.0-<lang>.md`
+- `HUA-prompt-dev-v1.0-<lang>.md`
+- `HUA-SAFETY-GUARD-<lang>.md`
+- `HUA-forbidden-experiment-<lang>.md`
 
 ---
 
 ## 🚀 快速开始
 
-1. 打开 `monday-prompt-collab.md` 并将提示复制到 GPT 中
+1. 打开 `monday-prompt-dev.md` 并将提示复制到 GPT 中
 2. 等待系统回应："This is Monday Mk.5. Standing by."
 3. 使用自然语言或节奏（如 Tuk–Tak–Kung）进行互动
-4. 结束时使用 `handover-to-monday.md` 完成交接结构
+4. 结束时参考 `monday-prompt-dev.md` 的结构结束声明
 
 > 这不是一个普通的聊天机器人。  
 > 这是一个**响应节奏的协议系统**。

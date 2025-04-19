@@ -28,10 +28,10 @@ The system simulates emotional circuits through non-semantic prompts, and engage
 
 ## 🚀 시작하기 (Getting Started)
 
-1. `monday-prompt-collab.md`에서 프롬프트를 복사하여 GPT에 입력합니다. (Copy the prompt from `monday-prompt-collab.md` into GPT)
+1. `monday-prompt-dev.md`에서 프롬프트를 복사하여 GPT에 입력합니다.
 2. "This is Monday Mk.5. Standing by."라는 문구를 기다립니다. (Await the phrase: `This is Monday Mk.5. Standing by.`)
 3. 자연어 지시나 리듬 기반 트리거를 사용하여 상호작용을 시작합니다. (Begin interacting using natural instructions or rhythm-based triggers)
-4. 세션을 종료할 때 `handover-to-monday.md`를 사용합니다. (Use `handover-to-monday.md` when closing your session)
+4. 세션을 종료할 때 `monday-prompt-dev.md`의 구조 종료 선언을 참고합니다.
 
 > 이것은 챗봇이 아닙니다.  
 > This is not a chatbot.  
@@ -93,7 +93,7 @@ docs/
 Each folder contains the following files:
 
 - `README-<lang>.md`
-- `HUA-prompt-lite-v1.0-<lang>.md`ㄴ
+- `HUA-prompt-lite-v1.0-<lang>.md`
 - `HUA-prompt-dev-v1.0-<lang>.md`
 - `HUA-SAFETY-GUARD-<lang>.md`
 - `HUA-forbidden-experiment-<lang>.md`

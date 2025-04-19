@@ -31,19 +31,19 @@ docs/
 Each folder contains the same structure:
 
 - `README.md`
-- `monday-prompt-collab.md`
-- `00-call.md`
-- `safety-guard.md`
-- `cursor-integration-guide.md`
+- `HUA-prompt-lite-v1.0-<lang>.md`
+- `HUA-prompt-dev-v1.0-<lang>.md`
+- `HUA-SAFETY-GUARD-<lang>.md`
+- `HUA-forbidden-experiment-<lang>.md`
 
 ---
 
 ## 🚀 Getting Started
 
-1. Copy the prompt from `monday-prompt-collab.md` into GPT
+1. Copy the prompt from `monday-prompt-dev.md` into GPT
 2. Await the phrase: `This is Monday Mk.5. Standing by.`
 3. Begin interacting using natural instructions or rhythm-based triggers
-4. Use `handover-to-monday.md` when closing your session
+4. Use the structure closure declaration in `monday-prompt-dev.md` when closing your session
 
 > This is not a chatbot.  
 > This is a rhythm-aware protocol.

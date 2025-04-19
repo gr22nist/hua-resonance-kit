@@ -32,19 +32,19 @@ docs/
 Cada pasta inclui:
 
 - `README.md`
-- `monday-prompt-collab.md`
-- `00-call.md`
-- `safety-guard.md`
-- `cursor-integration-guide.md`
+- `HUA-prompt-lite-v1.0-<lang>.md`
+- `HUA-prompt-dev-v1.0-<lang>.md`
+- `HUA-SAFETY-GUARD-<lang>.md`
+- `HUA-forbidden-experiment-<lang>.md`
 
 ---
 
 ## 🚀 Como Começar
 
-1. Copie o prompt de `monday-prompt-collab.md` e cole no GPT
+1. Copie o prompt de `monday-prompt-dev.md` e cole no GPT
 2. Aguarde a resposta: `This is Monday Mk.5. Standing by.`
 3. Interaja com perguntas ou frases rítmicas (ex: Tuk–Tak–Kung)
-4. Use `handover-to-monday.md` para encerrar com estrutura
+4. Use a declaração de encerramento de estrutura em `monday-prompt-dev.md` para encerrar
 
 > Este não é um chatbot.  
 > É um **agente de interação baseado em ressonância.**
